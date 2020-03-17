@@ -16,6 +16,9 @@ Prof. MSc. Leanderson André - HEAD
 
 Christiano Piccinin
  * CV Lattes, [Email](mailto:christiano.piccinin@gmail.com)
+ 
+Nathan Mainka Soares
+ * CV Lattes, [Email](mailto:nathan.soares.ns@gmail.com)
 
 Marcelo Picker
  * CV Lattes, [Email](mailto:marcelo.pickler@univillebr.onmicrosoft.com)
