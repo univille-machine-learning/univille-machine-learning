@@ -10,7 +10,7 @@ O UML iniciou suas atividades em Março de 2020.
 ## Membros
 
 Prof. MSc. Leanderson André - HEAD
-  * Orcid, CV Lattes, Email
+  * [Orcid](https://orcid.org/0000-0001-6167-8569), [CV Lattes](http://lattes.cnpq.br/3962305390627595), [Email](mailto:leandersonandre@univille.br)
 
 ### Estudantes
 
@@ -18,7 +18,7 @@ Christiano Piccinin
 
 Marcelo Picker
 
-Welligton Gallo
+Wellinton Gallo
 
 
 ## Projetos de pesquisas
