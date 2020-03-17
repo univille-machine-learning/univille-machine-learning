@@ -22,7 +22,7 @@ Os projetos de pesquisa estão relacionados, mas não limitados, aos seguintes t
 
 * Machine Learning
 * Machine Learning e IoT
-* Machine Learning baseado na nuvem
+* Arquitetura de Machine Learning baseado na Computação em Nuvem
 * Tiny Machine Learning
 * Small Data
 
