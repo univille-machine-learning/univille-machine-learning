@@ -30,6 +30,7 @@ Os projetos de pesquisa estão relacionados, mas não limitados, aos seguintes t
 * Arquitetura de Machine Learning baseado na Computação em Nuvem
 * Tiny Machine Learning
 * Small Data
+* Problemas de aprendizagem supervisionada de regressão
 
 ## Publicações
 
