@@ -37,6 +37,8 @@ Os projetos de pesquisa estão relacionados, mas não limitados, aos seguintes t
 
 ## Premiações
 
+- [ ] TODO.
+
 ## Códigos fontes
 
 Os códigos fontes dos projetos desenvolvidos pelo UML estão disponíveis no link.
