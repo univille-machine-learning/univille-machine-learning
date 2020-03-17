@@ -1,6 +1,6 @@
 # UML | UNIVILLE Machine Learning
 
-Grupo de Pesquisa em Machine Learning na UNIVILLE
+UNIVILLE Machine Learning - UML é parte do [Grupo de Pesquisa e Estudos em Informática Aplicada](http://dgp.cnpq.br/dgp/espelhogrupo/9939140364534240) na Universidade da Região de Joinville - UNIVILLE (Joinville, SC, Brasil).
 
 ## Membros
 
