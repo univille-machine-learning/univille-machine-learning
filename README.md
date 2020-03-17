@@ -15,10 +15,13 @@ Prof. MSc. Leanderson André - HEAD
 ### Estudantes
 
 Christiano Piccinin
+ * [CV Lattes](http://lattes.cnpq.br/3962305390627595), [Email](mailto:christiano.piccinin@gmail.com)
 
 Marcelo Picker
+ * [CV Lattes](), [Email](mailto:marcelo.pickler@univillebr.onmicrosoft.com)
 
 Wellinton Gallo
+ * [CV Lattes](), [Email](mailto:wellinton.gallo77@gmail.com)
 
 
 ## Projetos de pesquisas
