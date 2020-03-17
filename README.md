@@ -9,7 +9,7 @@ O UML iniciou suas atividades em Março de 2020.
 
 ## Membros
 
-Leanderson André - HEAD
+Prof. MSc. Leanderson André - HEAD
   * Orcid, CV Lattes, Email
 
 ### Estudantes
