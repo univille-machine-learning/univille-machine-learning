@@ -1,5 +1,5 @@
-<img align="left"  src="https://avatars1.githubusercontent.com/u/62086287?s=200&v=4" alt="Kitten"
-	title="UNIVILLE" width="60" height="60" /> <h1>UNIVILLE Machine Learning | UML</h1>
+<h1><img align="left"  src="https://avatars1.githubusercontent.com/u/62086287?s=200&v=4" alt="Kitten"
+	title="UNIVILLE" width="60" height="60" /> UNIVILLE Machine Learning | UML</h1>
  <br>
  
 
