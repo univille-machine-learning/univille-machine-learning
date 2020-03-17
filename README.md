@@ -1,6 +1,6 @@
 # UML | UNIVILLE Machine Learning
 
-UNIVILLE Machine Learning - UML é parte do [Grupo de Pesquisa e Estudos em Informática Aplicada](http://dgp.cnpq.br/dgp/espelhogrupo/9939140364534240) e está vinculado aos cursos de Bacharelado em Engenharia de Software e Sistemas de Informação na [Universidade da Região de Joinville - UNIVILLE](https://univille.br) (Joinville, SC, Brasil).
+UNIVILLE Machine Learning - UML é parte do [Grupo de Pesquisa e Estudos em Informática Aplicada](http://dgp.cnpq.br/dgp/espelhogrupo/9939140364534240) e está vinculado aos cursos de Bacharelado em Engenharia de Software e Sistemas de Informação na [Universidade da Região de Joinville - UNIVILLE](https://univille.br) (Joinville, SC, Brasil). 
 
 ## Membros
 
