@@ -1,9 +1,9 @@
 <h1><img align="left"  src="https://avatars1.githubusercontent.com/u/62086287?s=200&v=4" alt="Kitten"
-	title="UNIVILLE" width="50" height="50" /> UNIVILLE Machine Learning | UML</h1>
+	title="Univille" width="50" height="50" /> UNIVILLE Machine Learning | UML</h1>
  <br>
  
 
-UNIVILLE Machine Learning faz parte do [Grupo de Pesquisa e Estudos em Informática Aplicada](http://dgp.cnpq.br/dgp/espelhogrupo/9939140364534240) na linha de pesquisa em Descoberta de Conhecimentos e está vinculado aos cursos de Bacharelado em Engenharia de Software e Sistemas de Informação na [Universidade da Região de Joinville - UNIVILLE](https://univille.br) (Joinville, SC, Brasil). 
+Univille Machine Learning faz parte do [Grupo de Pesquisa e Estudos em Informática Aplicada](http://dgp.cnpq.br/dgp/espelhogrupo/9939140364534240) na linha de pesquisa em Descoberta de Conhecimentos e está vinculado aos cursos de Bacharelado em Engenharia de Software e Sistemas de Informação na [Universidade da Região de Joinville - UNIVILLE](https://univille.br) (Joinville, SC, Brasil). 
 
 O UML iniciou suas atividades em Março de 2020.
 
