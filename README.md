@@ -24,7 +24,7 @@ Marcelo Picker
  * CV Lattes, [Email](mailto:marcelo.pickler@univillebr.onmicrosoft.com)
 
 Wellinton Gallo
- * CV Lattes, [Email](mailto:wellinton.gallo77@gmail.com)
+ * [CV Lattes]( http://lattes.cnpq.br/1876292464591558), [Email](mailto:wellinton.gallo77@gmail.com)
 
 
 ## Projetos de pesquisas
